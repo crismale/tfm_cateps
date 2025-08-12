@@ -1,0 +1,19 @@
+{
+  "name": "app-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crismale/tfm_cateps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crismale/tfm_cateps/issues"
+  },
+  "homepage": "https://github.com/crismale/tfm_cateps#readme"
+}
